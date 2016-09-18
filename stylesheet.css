@@ -1,0 +1,114 @@
+body {
+	background: rgb(104,187,285);
+	margin: auto;
+}
+
+ul li {
+	list-style-type: none;
+	font-size: 15px;
+}
+
+h3 {
+	text-align: center;
+}
+
+p {
+	text-align: center;
+}
+
+#header {
+	width: auto;
+	margin-top: 30px;
+	margin-right: 30px;
+	margin-left: 30px;
+	height: 100px;
+
+}
+
+h1 {
+	text-align: center;
+	color: white;
+}
+
+h2 {
+	text-align: center;
+	color: rgb(112,192,232);
+}
+
+#container {
+	padding: 35px;
+	margin-right: 30px;
+	margin-left: 30px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	width: 90%;
+}
+
+#left-box {
+	background: rgb(9,30,45);
+	color: white;
+	width: 250px;
+	height: 810px;
+	margin-top: 35px;
+	margin-bottom: 35px;
+	float: left;
+}
+
+.image {
+	width: 250px;
+}
+
+.description {
+	text-align: center;
+	font-size: 13px;
+}
+
+#right-box {
+	background: rgb(9,30,45);
+	height: 810px;
+	width: 850px;
+	margin-top: 35px;
+	margin-bottom: 35px;
+	margin-left: 20px;
+	float: right;
+}
+
+#experiences-box {
+	background: white;
+	color: black;
+	margin-top: 100px;
+	margin-right: 100px;
+	margin-left: 20px;
+	float: right;
+	width: 624px;
+}
+
+#studies-box {
+	background: white;
+	color: black;
+	margin-top: 100px;
+	margin-right: 100px;
+	margin-left: 20px;
+	margin-bottom: 35px;
+	float: right;
+	width: 624px;
+}
+
+.experience {
+	background-color: white;
+}
+
+.study {
+	background-color: white;
+}
+
+#footer {
+	background-color: white;
+	color: black;
+	width: auto;
+	margin-top: 850px;
+	margin-right: 60px;
+	margin-left: 62px;
+	height: 50px;
+	bottom: 0;
+}
